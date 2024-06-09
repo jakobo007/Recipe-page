@@ -78,7 +78,7 @@ li, p {
     margin-left: var(--margin);
 }
 
-.prep_time ul li span {
+.prep_time ul li span, .ingredients ul li {
     padding-left: var(--margin);
 }
 
